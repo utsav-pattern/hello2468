@@ -3,15 +3,15 @@ name = "hello2468"
 version = "0.1.0"
 description = "A hello world package for demonstration"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-    { name="Your Name", email="your@email.com" }
+    { name="Utsav Savaliya", email="utsav.savaliya@pattern.com" }
 ]
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/yourusername/hello2468"
+Homepage = "https://github.com/Utsav1973/hello2468"
 
 [build-system]
 requires = ["setuptools>=64", "wheel"]
